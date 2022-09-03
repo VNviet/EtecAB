@@ -1,0 +1,2 @@
+# EtecAB
+Solução exercicio
